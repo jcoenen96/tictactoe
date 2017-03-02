@@ -1,0 +1,11 @@
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\bin\Debug\TicTacToeGui.exe.config
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\bin\Debug\TicTacToeGui.exe
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\bin\Debug\TicTacToeGui.pdb
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\obj\Debug\TicTacToeGui.csprojResolveAssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\obj\Debug\TicTacToeGui.Properties.Resources.resources
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\obj\Debug\TicTacToeGui.csproj.GenerateResource.Cache
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\obj\Debug\TicTacToeGui.exe
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\obj\Debug\TicTacToeGui.pdb
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\obj\Debug\TicTacToeGui.Form1.resources
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\bin\Debug\TicTacToe.dll
+C:\Users\joris\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToeGui\bin\Debug\TicTacToe.pdb
